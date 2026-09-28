@@ -1,0 +1,6 @@
+{
+  "name": "DriftGuard — SIH'26",
+  "description": "AI-driven screening and anomaly-detection decision-support platform for space-grade electronic components undergoing burn-in and screening tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
